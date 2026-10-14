@@ -1,0 +1,11 @@
+.DS_Store
+.env
+*.p12
+*.p8
+*.jks
+*.keystore
+*.mobileprovision
+*service-account*.json
+build/
+.dart_tool/
+android/.gradle/
